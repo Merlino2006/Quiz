@@ -1,0 +1,1102 @@
+[
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (762)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (762)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (618)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (618)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (849)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (849)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (845)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (845)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (888)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (888)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (559)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (559)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (157)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (157)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (263)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (263)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (770)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (770)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (5)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (5)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (618)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (618)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (31)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (31)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (743)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (743)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (526)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (526)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (523)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (523)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (359)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (359)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (15)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (15)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (771)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (771)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (759)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (759)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (961)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (961)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (295)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (295)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (119)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (119)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (40)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (40)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (119)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (119)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (526)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (526)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (552)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (552)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (109)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (109)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (483)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (483)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (591)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (591)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (134)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (134)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (791)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (791)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (887)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (887)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (800)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (800)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (18)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (18)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (971)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (971)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (574)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (574)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (614)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (614)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (4)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (4)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (673)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (673)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (766)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (766)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (22)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (22)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (173)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (173)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (158)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (158)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (364)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (364)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (702)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (702)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (99)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (99)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (859)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (859)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (193)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (193)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (273)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (273)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (678)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (678)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (573)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (573)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (864)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (864)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (196)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (196)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (683)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (683)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (273)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (273)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (37)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (37)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (263)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (263)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (497)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (497)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (348)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (348)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (577)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (577)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (642)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (642)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (57)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (57)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (743)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (743)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (516)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (516)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (203)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (203)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (68)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (68)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (184)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (184)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (155)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (155)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (392)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (392)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (695)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (695)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (65)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (65)?\"."
+  },
+  {
+    "domanda": "Cosa serve una VPN (1000)?",
+    "scelte": [
+      "Per proteggere la privacy online",
+      "Per velocizzare Internet",
+      "Per condividere file",
+      "Per cancellare virus"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Per proteggere la privacy online\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa serve una VPN (1000)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (297)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (297)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (386)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (386)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (78)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (78)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (859)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (859)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (617)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (617)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (870)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (870)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (152)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (152)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (755)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (755)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (922)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (922)?\"."
+  },
+  {
+    "domanda": "Cos'è un firewall (4)?",
+    "scelte": [
+      "Un sistema che blocca accessi non autorizzati",
+      "Un antivirus",
+      "Un router",
+      "Un'app per la posta elettronica"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un sistema che blocca accessi non autorizzati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un firewall (4)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (678)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (678)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (62)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (62)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (345)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (345)?\"."
+  },
+  {
+    "domanda": "Cosa si intende per autenticazione a due fattori (377)?",
+    "scelte": [
+      "Due password consecutive",
+      "Una password e una verifica aggiuntiva",
+      "Due username",
+      "Un backup automatico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La risposta corretta è: \"Una password e una verifica aggiuntiva\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa si intende per autenticazione a due fattori (377)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (65)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (65)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (696)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (696)?\"."
+  },
+  {
+    "domanda": "Cosa fa un antivirus (99)?",
+    "scelte": [
+      "Previene e rimuove malware",
+      "Accelera la connessione",
+      "Salva i file nel cloud",
+      "Blocca i popup"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Previene e rimuove malware\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa fa un antivirus (99)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (821)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (821)?\"."
+  },
+  {
+    "domanda": "Cos'è il phishing (673)?",
+    "scelte": [
+      "Una tecnica per ottenere dati personali fingendosi affidabili",
+      "Un tipo di firewall",
+      "Un attacco DoS",
+      "Un sistema operativo"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Una tecnica per ottenere dati personali fingendosi affidabili\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è il phishing (673)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (62)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (62)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (799)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (799)?\"."
+  },
+  {
+    "domanda": "Cos'è un attacco ransomware (53)?",
+    "scelte": [
+      "Un software che chiede un riscatto per sbloccare i dati",
+      "Un programma per fare backup",
+      "Un firewall avanzato",
+      "Un tipo di spam"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Un software che chiede un riscatto per sbloccare i dati\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cos'è un attacco ransomware (53)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (27)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (27)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (286)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (286)?\"."
+  },
+  {
+    "domanda": "Come si può riconoscere un'email di phishing (392)?",
+    "scelte": [
+      "Contiene link sospetti e richieste urgenti",
+      "È inviata da amici",
+      "Ha un allegato PDF sicuro",
+      "Viene da un dominio ufficiale"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Contiene link sospetti e richieste urgenti\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Come si può riconoscere un'email di phishing (392)?\"."
+  },
+  {
+    "domanda": "Qual è una buona pratica per creare una password sicura (438)?",
+    "scelte": [
+      "Usare il proprio nome",
+      "Usare solo numeri",
+      "Usare una combinazione di lettere, numeri e simboli",
+      "Usare la stessa password ovunque"
+    ],
+    "corretta": 2,
+    "spiegazione": "La risposta corretta è: \"Usare una combinazione di lettere, numeri e simboli\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è una buona pratica per creare una password sicura (438)?\"."
+  },
+  {
+    "domanda": "Cosa indica il lucchetto accanto all'URL in un browser (53)?",
+    "scelte": [
+      "Che la connessione è sicura",
+      "Che il sito è governativo",
+      "Che il sito è veloce",
+      "Che il sito è offline"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Che la connessione è sicura\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Cosa indica il lucchetto accanto all'URL in un browser (53)?\"."
+  },
+  {
+    "domanda": "Qual è il rischio principale delle reti Wi-Fi pubbliche (521)?",
+    "scelte": [
+      "Possono essere intercettate facilmente",
+      "Sono troppo lente",
+      "Sono gratuite",
+      "Non hanno un firewall"
+    ],
+    "corretta": 0,
+    "spiegazione": "La risposta corretta è: \"Possono essere intercettate facilmente\". Questa risposta è corretta perché riguarda direttamente il concetto chiave espresso nella domanda: \"Qual è il rischio principale delle reti Wi-Fi pubbliche (521)?\"."
+  }
+]
